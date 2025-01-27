@@ -1,7 +1,6 @@
 # Criação do e-book gerado com I.A.s
 
-Título gerado com a ajuda no ChatGPT: 
-# Segredo entre linhas: Uma Análise Lógica do Conto de Poe
+Título gerado com a ajuda no ChatGPT: Segredo entre linhas: Uma Análise Lógica do Conto de Poe
 https://chatgpt.com/c/67980ddd-15fc-800a-bb47-ac02cc2fc069
 
 # Tecnologias utilizadas no projeto
