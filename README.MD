@@ -17,7 +17,9 @@ CHATGPT
 Crie um título de um e-book de análise do conto A carta roubada, de Edgar Alan Poe, do ponto de vista da Lógica. O e-book é do nicho de biblioteconomia. Que tenha uma temática simpática
 
 Imagem:
-[gerar imagem "análise lógica" "a carta roubada" "edgar alan poe"]
+
+Prompt: gerar imagem "análise lógica" "a carta roubada" "edgar alan poe"
+
 https://gemini.google.com/app/b1a5c40e369d07f4?hl=pt-br
 
 
