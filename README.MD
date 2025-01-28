@@ -34,6 +34,6 @@ https://gemini.google.com/app/b1a5c40e369d07f4?hl=pt-br
 Com o documento do trabalho original, apresentado em 2011 em contexto acadêmico, solicitei sugestão de títulos e subtítulos.
 
 Este é o documento elaborado no Apresentações do Google:
-<a href="https://github.com/LucianaPitas/prompts-recipe-to-create-a-ebook/blob/main/output/EBook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/LucianaPitas/prompts-recipe-to-create-a-ebook/blob/main/output/EBookV2.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 
